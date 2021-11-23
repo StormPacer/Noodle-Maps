@@ -16,7 +16,7 @@ I don't mind you re-using my effects (copying the effect and changing values), t
 
 ![error](https://user-images.githubusercontent.com/73640025/143054965-70e2c038-4111-4c19-ad10-9d4a2de48699.jpg)
 
-This was my first noodle map ever, therfore the script is a bit messy and confusing, for that reason I commented what some things do, so you can learn how noodle is done overall.
+This was my first noodle map ever, sadly lost the script for this maps.
 
 You can download the map [here](https://beatsaver.com/maps/1d3d2).
 
