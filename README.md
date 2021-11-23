@@ -24,7 +24,7 @@ You can download the map [here](https://beatsaver.com/maps/1d3d2).
 
 ![alok](https://user-images.githubusercontent.com/73640025/143055050-e9f36174-36a4-4f90-80b6-ca9453fe1223.jpg)
 
-My second map I made, already started using a lot of other noodle featurs and using Chroma with it, this map was almost not released due to me losing motivation/thinking the map is bad.
+My second map I made, already started using a lot of other noodle features and using Chroma with it, this map was almost not released due to me losing motivation/thinking the map is bad.
 
 You can download the map [here](https://beatsaver.com/maps/1de59).
 
