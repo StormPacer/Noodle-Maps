@@ -28,4 +28,6 @@ My second map I made, already started using a lot of other noodle featurs and us
 
 You can download the map [here](https://beatsaver.com/maps/1de59).
 
-The maps currently end here, will be adding more maps in the future!
+# Looks like there is no more
+
+I currently don't have any other maps to show off, the more maps I make the more will appear here!
