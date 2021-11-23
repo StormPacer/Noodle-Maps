@@ -1,0 +1,57 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Error 2.0",
+  "_songSubName": "",
+  "_songAuthorName": "Erio",
+  "_levelAuthorName": "StormPacer",
+  "_beatsPerMinute": 128,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 81,
+  "_previewDuration": 15,
+  "_songFilename": "complex.egg",
+  "_coverImageFilename": "error.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "MMA2": {
+        "version": "4.8.0"
+      },
+      "ChroMapper": {
+        "version": "0.8.441"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 22,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [
+              "Motion Sickness!",
+              "Epilepsy Warning!"
+            ],
+            "_information": [
+              "Lights on!"
+            ],
+            "_requirements": [
+              "Noodle Extensions",
+              "Chroma"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
