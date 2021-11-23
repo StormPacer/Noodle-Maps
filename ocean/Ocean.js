@@ -35,12 +35,12 @@ _environment.push(
     "_active": false
   },
   {
-    "_id": "\\]PillarPair \\(3\\)\\.\\[\\d*\\]PillarR$",
+    "_id": "\\]PillarPair \\(3\\)\\.\\[\\d*\\]PillarR",
     "_lookupMethod": "Regex",
     "_active": false
   },
   {
-    "_id": "\\]PillarPair \\(4\\)$",
+    "_id": "\\]PillarPair \\(4\\)",
     "_lookupMethod": "Regex",
     "_active": false
   },
@@ -70,12 +70,12 @@ _environment.push(
     "_active": false
   },
   {
-    "_id": "\\]PillarPair \\(3\\)\\.\\[\\d*\\]PillarL$",
+    "_id": "\\]PillarPair \\(3\\)\\.\\[\\d*\\]PillarL",
     "_lookupMethod": "Regex",
     "_active": false
   },
   {
-    "_id": "\\]PillarPair \\(1\\)\\.\\[\\d*\\]PillarR$",
+    "_id": "\\]PillarPair \\(1\\)\\.\\[\\d*\\]PillarR",
     "_lookupMethod": "Regex",
     "_active": false
   },
@@ -90,19 +90,19 @@ _environment.push(
     "_active": false
   },
   {
-    "_id": "\\]PillarPair \\(2\\)\\.\\[\\d*\\]PillarR$",
+    "_id": "\\]PillarPair \\(2\\)\\.\\[\\d*\\]PillarR",
     "_lookupMethod": "Regex",
     "_active": true,
     "_track": "pillarTrackL1"
   },
   {
-    "_id": "\\]PillarPair\\.\\[\\d*\\]PillarR$",
+    "_id": "\\]PillarPair\\.\\[\\d*\\]PillarR",
     "_lookupMethod": "Regex",
     "_active": true,
     "_track": "pillarTrackR1"
   },
   {
-    "_id": "\\]PillarPair\\.\\[\\d*\\]PillarL$",
+    "_id": "\\]PillarPair\\.\\[\\d*\\]PillarL",
     "_lookupMethod": "Regex",
     "_active": true,
     "_track": "pillarTrackL2"
@@ -114,67 +114,67 @@ _environment.push(
     "_track": "pillarTrackR2"
   },
   {
-    "_id": "\\]PillarPair \\(1\\)\\.\\[\\d*\\]PillarL$",
+    "_id": "\\]PillarPair \\(1\\)\\.\\[\\d*\\]PillarL",
     "_lookupMethod": "Regex",
     "_active": true,
     "_track": "pillarTrackL3"
   },
   {
-    "_id": "\\]PillarPair \\(1\\)\\.\\[\\d*\\]PillarR$",
+    "_id": "\\]PillarPair \\(1\\)\\.\\[\\d*\\]PillarR",
     "_lookupMethod": "Regex",
     "_active": true,
     "_track": "pillarTrackR3"
   },
   {
-    "_id": "\\]PillarPair \\(2\\)\\.\\[\\d*\\]PillarL$",
+    "_id": "\\]PillarPair \\(2\\)\\.\\[\\d*\\]PillarL",
     "_lookupMethod": "Regex",
     "_active": true,
     "_track": "pillarTrackL4"
   },
   {
-    "_id": "\\]SmallPillarPair \\(2\\)\\.\\[\\d*\\]PillarR$",
+    "_id": "\\]SmallPillarPair \\(2\\)\\.\\[\\d*\\]PillarR",
     "_lookupMethod": "Regex",
     "_active": true,
     "_track": "pillarUP1"
   },
   {
-    "_id": "\\]SmallPillarPair \\(2\\)\\.\\[\\d*\\]PillarL$",
+    "_id": "\\]SmallPillarPair \\(2\\)\\.\\[\\d*\\]PillarL",
     "_lookupMethod": "Regex",
     "_active": true,
     "_track": "pillarUP2"
   },
   {
-    "_id": "\\]SmallPillarPair \\(3\\)\\.\\[\\d*\\]PillarL$",
+    "_id": "\\]SmallPillarPair \\(3\\)\\.\\[\\d*\\]PillarL",
     "_lookupMethod": "Regex",
     "_active": true,
     "_track": "pillarUP3"
   },
   {
-    "_id": "\\]SmallPillarPair \\(3\\)\\.\\[\\d*\\]PillarR$",
+    "_id": "\\]SmallPillarPair \\(3\\)\\.\\[\\d*\\]PillarR",
     "_lookupMethod": "Regex",
     "_active": true,
     "_track": "pillarUP4"
   },
   {
-    "_id": "\\]SmallPillarPair\\.\\[\\d*\\]PillarL$",
+    "_id": "\\]SmallPillarPair\\.\\[\\d*\\]PillarL",
     "_lookupMethod": "Regex",
     "_active": true,
     "_track": "pillarUP5"
   },
   {
-    "_id": "\\]SmallPillarPair\\.\\[\\d*\\]PillarR$",
+    "_id": "\\]SmallPillarPair\\.\\[\\d*\\]PillarR",
     "_lookupMethod": "Regex",
     "_active": true,
     "_track": "pillarUP6"
   },
   {
-    "_id": "\\]SmallPillarPair \\(1\\)\\.\\[\\d*\\]PillarL$",
+    "_id": "\\]SmallPillarPair \\(1\\)\\.\\[\\d*\\]PillarL",
     "_lookupMethod": "Regex",
     "_active": true,
     "_track": "pillarUP7"
   },
   {
-    "_id": "\\]SmallPillarPair \\(1\\)\\.\\[\\d*\\]PillarR$",
+    "_id": "\\]SmallPillarPair \\(1\\)\\.\\[\\d*\\]PillarR",
     "_lookupMethod": "Regex",
     "_active": true,
     "_track": "pillarUP8"
