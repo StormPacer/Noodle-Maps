@@ -1,5 +1,7 @@
 # About me
-I'm a pepega beat saber player. In my free time I like to make noodle maps and code discord bots. links:
+I'm a pepega beat saber player. In my free time I like to make noodle maps and code discord bots. 
+
+Links:
 
 [BeatSaver profile](https://beatsaver.com/profile/4288783)
 
