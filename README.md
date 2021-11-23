@@ -10,7 +10,7 @@ You can add me on discord if you want to ask me anything about discord bot devel
 # Noodle Maps
 Here is the home repository of all my noodle maps, feel free to look at all the scripts for my maps. Template script made by Reaxt, the only thing changed is removing the stuff I don't need. You can grab their script from [here](https://github.com/Aeroluna/NoodleExtensions/blob/master/Documentation/examples/documentationMap/demo.js). 
 
-I don't mind you re-using my effects (copy and pasting the effect word for word), the only thing I want you not to do is blatently copy paste it in your map.
+I don't mind you re-using my effects (copying the effect and changing values), the only thing I want you not to do is blatently copy paste it in your map.
 
 # Error 2.0
 
