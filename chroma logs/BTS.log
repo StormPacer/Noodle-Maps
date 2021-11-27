@@ -1,0 +1,577 @@
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[0]DecoratorContext
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[1]SceneSetup
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[10]DustPS
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[11]Clouds
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[11]Clouds.[0]LowCloudsGenerator
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[11]Clouds.[0]LowCloudsGenerator.[0]OpaqueGeometry
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[11]Clouds.[1]HighCloudsGenerator
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[11]Clouds.[1]HighCloudsGenerator.[0]OpaqueGeometry
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[12]StarHemisphere
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[0]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[0]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[1]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[1]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[10]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[10]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[11]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[11]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[12]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[12]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[13]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[13]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[14]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[14]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[15]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[15]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[16]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[16]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[17]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[17]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[18]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[18]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[19]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[19]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[2]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[2]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[20]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[20]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[21]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[21]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[22]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[22]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[23]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[23]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[24]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[24]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[25]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[25]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[26]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[26]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[27]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[27]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[28]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[28]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[29]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[29]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[3]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[3]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[4]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[4]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[5]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[5]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[6]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[6]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[7]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[7]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[8]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[8]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[9]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[9]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[0]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[0]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[1]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[1]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[10]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[10]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[11]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[11]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[12]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[12]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[13]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[13]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[14]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[14]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[15]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[15]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[16]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[16]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[17]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[17]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[18]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[18]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[19]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[19]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[2]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[2]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[20]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[20]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[21]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[21]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[22]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[22]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[23]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[23]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[24]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[24]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[25]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[25]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[26]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[26]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[27]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[27]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[28]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[28]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[29]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[29]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[3]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[3]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[4]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[4]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[5]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[5]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[6]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[6]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[7]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[7]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[8]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[8]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[9]PillarTrackLaneRing(Clone)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[9]PillarTrackLaneRing(Clone).[0]Cube
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[15]PillarsMovementEffect
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[0]Pillar
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[1]RotationBaseL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[1]RotationBaseL.[0]LaserLH
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[1]RotationBaseL.[0]LaserLH.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[1]RotationBaseL.[0]LaserLH.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[1]RotationBaseL.[1]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[1]RotationBaseL.[2]Reflector
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[2]LaserL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[2]LaserL.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[2]LaserL.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[3]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[3]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[3]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[0]Pillar
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[1]RotationBaseR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[1]RotationBaseR.[0]LaserRH
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[1]RotationBaseR.[0]LaserRH.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[1]RotationBaseR.[0]LaserRH.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[1]RotationBaseR.[1]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[1]RotationBaseR.[2]Reflector
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[2]LaserR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[2]LaserR.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[2]LaserR.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[3]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[3]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[3]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[0]Pillar
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[1]RotationBaseL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[1]RotationBaseL.[0]LaserLH
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[1]RotationBaseL.[0]LaserLH.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[1]RotationBaseL.[0]LaserLH.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[1]RotationBaseL.[1]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[1]RotationBaseL.[2]Reflector
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[2]LaserL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[2]LaserL.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[2]LaserL.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[3]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[3]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[3]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[0]Pillar
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[1]RotationBaseR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[1]RotationBaseR.[0]LaserRH
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[1]RotationBaseR.[0]LaserRH.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[1]RotationBaseR.[0]LaserRH.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[1]RotationBaseR.[1]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[1]RotationBaseR.[2]Reflector
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[2]LaserR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[2]LaserR.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[2]LaserR.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[3]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[3]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[3]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[0]Pillar
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[1]RotationBaseL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[1]RotationBaseL.[0]LaserLH
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[1]RotationBaseL.[1]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[1]RotationBaseL.[2]Reflector
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[2]LaserL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[2]LaserL.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[2]LaserL.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[3]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[3]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[3]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[0]Pillar
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[1]RotationBaseR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[1]RotationBaseR.[0]LaserRH
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[1]RotationBaseR.[1]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[1]RotationBaseR.[2]Reflector
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[2]LaserR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[2]LaserR.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[2]LaserR.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[3]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[3]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[3]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[0]Pillar
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[1]RotationBaseL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[1]RotationBaseL.[0]LaserLH
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[1]RotationBaseL.[1]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[1]RotationBaseL.[2]Reflector
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[2]LaserL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[2]LaserL.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[2]LaserL.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[3]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[3]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[3]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[0]Pillar
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[1]RotationBaseR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[1]RotationBaseR.[0]LaserRH
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[1]RotationBaseR.[1]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[1]RotationBaseR.[2]Reflector
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[2]LaserR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[2]LaserR.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[2]LaserR.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[3]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[3]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[3]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[2]ShaderWarmup
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[0]Pillar
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[1]RotationBaseL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[1]RotationBaseL.[0]LaserLH
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[1]RotationBaseL.[1]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[1]RotationBaseL.[2]Reflector
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[2]LaserL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[2]LaserL.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[2]LaserL.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[3]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[3]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[3]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[0]Pillar
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[1]RotationBaseR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[1]RotationBaseR.[0]LaserRH
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[1]RotationBaseR.[1]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[1]RotationBaseR.[2]Reflector
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[2]LaserR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[2]LaserR.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[2]LaserR.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[3]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[3]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[3]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[0]Pillar
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[1]RotationBaseL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[1]RotationBaseL.[0]LaserLH
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[1]RotationBaseL.[1]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[1]RotationBaseL.[2]Reflector
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[2]LaserL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[2]LaserL.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[2]LaserL.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[3]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[3]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[3]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[0]Pillar
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[1]RotationBaseR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[1]RotationBaseR.[0]LaserRH
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[1]RotationBaseR.[1]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[1]RotationBaseR.[2]Reflector
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[2]LaserR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[2]LaserR.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[2]LaserR.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[3]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[3]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[3]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[0]Pillar
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[1]RotationBaseL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[1]RotationBaseL.[0]LaserLH
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[1]RotationBaseL.[1]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[1]RotationBaseL.[2]Reflector
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[2]LaserL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[2]LaserL.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[2]LaserL.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[3]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[3]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[3]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[0]Pillar
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[1]RotationBaseR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[1]RotationBaseR.[0]LaserRH
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[1]RotationBaseR.[1]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[1]RotationBaseR.[2]Reflector
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[2]LaserR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[2]LaserR.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[2]LaserR.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[3]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[3]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[3]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[0]Pillar
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[1]RotationBaseL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[1]RotationBaseL.[0]LaserLH
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[1]RotationBaseL.[1]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[1]RotationBaseL.[2]Reflector
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[2]LaserL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[2]LaserL.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[2]LaserL.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[3]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[3]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[3]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[0]Pillar
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[1]RotationBaseR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[1]RotationBaseR.[0]LaserRH
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[1]RotationBaseR.[1]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[1]RotationBaseR.[2]Reflector
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[2]LaserR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[2]LaserR.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[2]LaserR.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[3]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[3]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[3]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[0]Pillar
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[1]RotationBaseL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[1]RotationBaseL.[0]LaserLH
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[1]RotationBaseL.[1]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[1]RotationBaseL.[2]Reflector
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[2]LaserL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[2]LaserL.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[2]LaserL.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[3]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[3]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[3]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[0]Pillar
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[1]RotationBaseR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[1]RotationBaseR.[0]LaserRH
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[1]RotationBaseR.[1]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[1]RotationBaseR.[2]Reflector
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[2]LaserR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[2]LaserR.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[2]LaserR.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[3]LaserLight0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[3]LaserLight0.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[3]LaserLight0.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[25]StarEmitterPS
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[25]StarEmitterPS.[0]StarsPS
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[0]OverallTimeline
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[1]BTSCharacterDataModel
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[0]FlyingPlatform
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[0]FlyingPlatform.[0]Glow
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[0]FlyingPlatform.[1]FlyingPlatform
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[1]ShardParticles
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[2]LaserLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[2]LaserLight.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[2]LaserLight.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[3]CharacterWrapper
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[3]CharacterWrapper.[0]CharacterScaleWrapper
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[3]CharacterWrapper.[1]PropertyBlockAnimators
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[3]CharacterWrapper.[1]PropertyBlockAnimators.[0]RimLightIntensityAnimator
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[3]CharacterWrapper.[1]PropertyBlockAnimators.[1]RimLightEdgeStartAnimator
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[3]CharacterWrapper.[1]PropertyBlockAnimators.[2]RimLightColorSetter
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[3]CharacterWrapper.[1]PropertyBlockAnimators.[3]DummyMaterialPropertyBlockController
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[4]FloorGlow
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[3]CharacterRibbons
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[3]CharacterRibbons.[0]VfxCircularRibbon3
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[3]CharacterRibbons.[1]VfxCircularRibbon2
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[3]CharacterRibbons.[2]VfxCircularRibbon
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[26]BTSEnvironmentCharacterSpawner.[4]BTSEventEffect
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[27]BTSStarTextEffectEvent
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[27]BTSStarTextEffectEvent.[0]LeftTextPosition0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[27]BTSStarTextEffectEvent.[1]LeftTextPosition1
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[27]BTSStarTextEffectEvent.[2]LeftTextPosition2
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[27]BTSStarTextEffectEvent.[3]LeftTextPosition3
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[27]BTSStarTextEffectEvent.[4]LeftTextPosition4
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[27]BTSStarTextEffectEvent.[5]RightTextPosition0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[27]BTSStarTextEffectEvent.[6]RightTextPosition1
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[27]BTSStarTextEffectEvent.[7]RightTextPosition2
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[27]BTSStarTextEffectEvent.[8]RightTextPosition3
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[27]BTSStarTextEffectEvent.[9]RightTextPosition4
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[28]====== LIGHTS ======
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[29]LightWithIdManager
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[3]====== STATIC ======
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[30]LightEffects
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[31]CoreLighting
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[31]CoreLighting.[0]LightManager
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[31]CoreLighting.[1]LightWrapper0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[31]CoreLighting.[1]LightWrapper0.[0]DirectionalLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[31]CoreLighting.[2]LightWrapper1
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[31]CoreLighting.[2]LightWrapper1.[0]DirectionalLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[31]CoreLighting.[3]DirectionalLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[31]CoreLighting.[4]DirectionalLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[31]CoreLighting.[5]DirectionalLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[32]GradientBackground
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[33]GlowLineL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[33]GlowLineL.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[33]GlowLineL.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[34]GlowLineR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[34]GlowLineR.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[34]GlowLineR.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[35]GlowLineC
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[35]GlowLineC.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[35]GlowLineC.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[36]GlowLineH
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[37]GlowLineH (2)
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[38]LaserL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[39]LaserR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[4]TrackMirror
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[4]TrackMirror.[0]TrackMirrorSetDepth
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[40]BottomGlow
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[41]SideLaser
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[41]SideLaser.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[41]SideLaser.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[42]SideLaser
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[42]SideLaser.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[42]SideLaser.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[43]SideLaser
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[43]SideLaser.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[43]SideLaser.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[44]SideLaser
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[44]SideLaser.[0]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[44]SideLaser.[1]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[45]BakedReflectionProbe
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[46]BSBakedLightingLightWithIds
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[47]FakeMirrorSettings
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[48]BakedReflectionProbeInstaller
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[5]Construction
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[6]PlayersPlace
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[6]PlayersPlace.[0]Mirror
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[6]PlayersPlace.[1]Feet
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[6]PlayersPlace.[2]Construction
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[6]PlayersPlace.[3]RectangleFakeGlow
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[6]PlayersPlace.[4]Frame
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[6]PlayersPlace.[5]SaberBurnMarksParticles
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[6]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[6]PlayersPlace.[6]SaberBurnMarksArea
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[6]PlayersPlace.[7]Collider
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[7]====== DYNAMIC ======
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[8]MagicDoorSprite
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[8]MagicDoorSprite.[0]BloomL
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[8]MagicDoorSprite.[1]BloomR
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel.[0]BG
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel.[1]BarBG
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel.[3]EnergyIconFull
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper.[0]EnergyBar
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel.[5]Laser
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel.[6]FailIcon
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[0]ComboText
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas.[0]NumText
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[2]Line0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[3]Line1
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[0]ScoreText
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[1]ImmediateRankText
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[2]RelativeScoreText
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[0]BGCircle
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[1]FGCircle
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[2]AnimationCircle
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[0]XText
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[1]NumText
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[0]XText
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[1]NumText
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[0]XText
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[1]NumText
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[0]Progress
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[0]Background
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[2]DurationMinutes
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[3]DurationSeconds
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[4]ProgressMinutes
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[5]ProgressSeconds
+[DEBUG @ 18:43:32 | Chroma] BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[6]BG
