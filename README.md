@@ -14,6 +14,9 @@ Here is the home repository of all my noodle maps, feel free to look at all the 
 
 I don't mind you re-using my effects (copying the effect and changing values), the only thing I want you not to do is blatently copy paste it in your map.
 
+# Chroma Environments
+Added a new folder with all Chroma environment printouts if you don't want to bother with making them.
+
 # Error 2.0
 
 ![error](https://user-images.githubusercontent.com/73640025/143054965-70e2c038-4111-4c19-ad10-9d4a2de48699.jpg)
