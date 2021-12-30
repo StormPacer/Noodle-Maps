@@ -1,5 +1,7 @@
 # About me
-I'm a pepega beat saber player. In my free time I like to make noodle maps and code discord bots. 
+I play Beat Saber and make modcharts, that's about it, I also code discord bots.
+
+Also image size go BRRRRRRRRR
 
 Links:
 
@@ -39,7 +41,7 @@ You can download the map [here](https://beatsaver.com/maps/1de59).
 
 My third map. The best one till now, learned custom functions and made a pretty cool Chroma environment, not really much else to say about this.
 
-You can download the map [here](https://beatsaver.com/maps/1f4e4)
+You can download the map [here](https://beatsaver.com/maps/1f4e4).
 
 # Looks like there is no more
 
