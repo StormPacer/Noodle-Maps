@@ -33,6 +33,14 @@ My second map I made, already started using a lot of other noodle features and u
 
 You can download the map [here](https://beatsaver.com/maps/1de59).
 
+# Ember
+
+![ember](https://user-images.githubusercontent.com/73640025/147773348-20f918b6-1d91-4006-885a-5b47b26dc632.png)
+
+My third map. The best one till now, learned custom functions and made a pretty cool Chroma environment, not really much else to say about this.
+
+You can download the map [here](https://beatsaver.com/maps/1f4e4)
+
 # Looks like there is no more
 
 I currently don't have any other maps to show off, the more maps I make the more will appear here!
