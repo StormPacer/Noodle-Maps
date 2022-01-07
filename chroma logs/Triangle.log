@@ -1,300 +1,282 @@
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[0]DecoratorContext
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[1]====== STATIC ======
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[0]BG
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[1]BarBG
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[3]EnergyIconFull
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper.[0]EnergyBar
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[5]Laser
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[6]FailIcon
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[7]Colorer
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[0]BG
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[1]Top
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[0]ComboText
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]ComboCanvas
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]ComboCanvas.[0]NumText
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[2]Line0
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[3]Line1
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[4]Colorer
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[0]ScoreText
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[1]ImmediateRankText
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[2]RelativeScoreText
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[0]BG
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[1]Top
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[0]BGCircle
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[1]FGCircle
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[2]AnimationCircle
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1.[0]XText
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1.[1]NumText
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0.[0]XText
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0.[1]NumText
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[0]XText
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[1]NumText
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[6]Colorer
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[0]Progress
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[0]Background
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[2]DurationMinutes
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[3]DurationSeconds
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[4]ProgressMinutes
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[5]ProgressSeconds
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[6]BG
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[7]Colorer
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[11]PlayersPlace
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[11]PlayersPlace.[0]Mirror
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[11]PlayersPlace.[1]Feet
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[11]PlayersPlace.[2]Construction
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[11]PlayersPlace.[3]RectangleFakeGlow
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[11]PlayersPlace.[4]Frame
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[11]PlayersPlace.[5]SaberBurnMarksParticles
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[11]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[11]PlayersPlace.[6]SaberBurnMarksArea
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[11]PlayersPlace.[7]Collider
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[12]TriangleTrackLaneRings
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[13]BigTrackLaneRings
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[14]Spectrograms
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[14]Spectrograms.[0]Spectrogram
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[14]Spectrograms.[0]Spectrogram.[0]Spectrogram0
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[14]Spectrograms.[0]Spectrogram.[1]Spectrogram1
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[14]Spectrograms.[1]Spectrogram
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[14]Spectrograms.[1]Spectrogram.[0]Spectrogram0
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[14]Spectrograms.[1]Spectrogram.[1]Spectrogram1
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[15]BigSmokePS
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[16]DustPS
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[17]====== LIGHTS ======
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[18]LightEffects
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[19]LightWithIdManager
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[2]FloorConstruction
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[20]CoreLighting
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[20]CoreLighting.[0]LightManager
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[20]CoreLighting.[1]LightWrapper0
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[20]CoreLighting.[1]LightWrapper0.[0]DirectionalLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[20]CoreLighting.[2]LightWrapper1
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[20]CoreLighting.[2]LightWrapper1.[0]DirectionalLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[20]CoreLighting.[3]DirectionalLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[20]CoreLighting.[4]DirectionalLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[20]CoreLighting.[5]DirectionalLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[21]FrontLights
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[21]FrontLights.[0]NeonTube
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[21]FrontLights.[0]NeonTube.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[21]FrontLights.[0]NeonTube.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[21]FrontLights.[1]NeonTube (1)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[21]FrontLights.[1]NeonTube (1).[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[21]FrontLights.[1]NeonTube (1).[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[22]NeonTubeDirectionalL
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[22]NeonTubeDirectionalL.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[22]NeonTubeDirectionalL.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[23]NeonTubeDirectionalR
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[23]NeonTubeDirectionalR.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[23]NeonTubeDirectionalR.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[24]RotatingLasersPair
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[24]RotatingLasersPair.[0]BaseL
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[24]RotatingLasersPair.[0]BaseL.[0]Laser
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[24]RotatingLasersPair.[0]BaseL.[0]Laser.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[24]RotatingLasersPair.[0]BaseL.[0]Laser.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[24]RotatingLasersPair.[1]BaseR
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[24]RotatingLasersPair.[1]BaseR.[0]Laser
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[24]RotatingLasersPair.[1]BaseR.[0]Laser.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[24]RotatingLasersPair.[1]BaseR.[0]Laser.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[25]RotatingLasersPair (1)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[25]RotatingLasersPair (1).[0]BaseL
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[25]RotatingLasersPair (1).[0]BaseL.[0]Laser
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[25]RotatingLasersPair (1).[0]BaseL.[0]Laser.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[25]RotatingLasersPair (1).[0]BaseL.[0]Laser.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[25]RotatingLasersPair (1).[1]BaseR
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[25]RotatingLasersPair (1).[1]BaseR.[0]Laser
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[25]RotatingLasersPair (1).[1]BaseR.[0]Laser.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[25]RotatingLasersPair (1).[1]BaseR.[0]Laser.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[26]RotatingLasersPair (2)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[26]RotatingLasersPair (2).[0]BaseL
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[26]RotatingLasersPair (2).[0]BaseL.[0]Laser
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[26]RotatingLasersPair (2).[0]BaseL.[0]Laser.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[26]RotatingLasersPair (2).[0]BaseL.[0]Laser.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[26]RotatingLasersPair (2).[1]BaseR
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[26]RotatingLasersPair (2).[1]BaseR.[0]Laser
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[26]RotatingLasersPair (2).[1]BaseR.[0]Laser.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[26]RotatingLasersPair (2).[1]BaseR.[0]Laser.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[27]RotatingLasersPair (3)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[27]RotatingLasersPair (3).[0]BaseL
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[27]RotatingLasersPair (3).[0]BaseL.[0]Laser
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[27]RotatingLasersPair (3).[0]BaseL.[0]Laser.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[27]RotatingLasersPair (3).[0]BaseL.[0]Laser.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[27]RotatingLasersPair (3).[1]BaseR
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[27]RotatingLasersPair (3).[1]BaseR.[0]Laser
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[27]RotatingLasersPair (3).[1]BaseR.[0]Laser.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[27]RotatingLasersPair (3).[1]BaseR.[0]Laser.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[28]RotatingLasersPair (4)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[28]RotatingLasersPair (4).[0]BaseL
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[28]RotatingLasersPair (4).[0]BaseL.[0]Laser
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[28]RotatingLasersPair (4).[0]BaseL.[0]Laser.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[28]RotatingLasersPair (4).[0]BaseL.[0]Laser.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[28]RotatingLasersPair (4).[1]BaseR
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[28]RotatingLasersPair (4).[1]BaseR.[0]Laser
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[28]RotatingLasersPair (4).[1]BaseR.[0]Laser.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[28]RotatingLasersPair (4).[1]BaseR.[0]Laser.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[29]RotatingLasersPair (5)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[29]RotatingLasersPair (5).[0]BaseL
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[29]RotatingLasersPair (5).[0]BaseL.[0]Laser
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[29]RotatingLasersPair (5).[0]BaseL.[0]Laser.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[29]RotatingLasersPair (5).[0]BaseL.[0]Laser.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[29]RotatingLasersPair (5).[1]BaseR
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[29]RotatingLasersPair (5).[1]BaseR.[0]Laser
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[29]RotatingLasersPair (5).[1]BaseR.[0]Laser.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[29]RotatingLasersPair (5).[1]BaseR.[0]Laser.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[3]TrackMirror
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[3]TrackMirror.[0]TrackMirrorSetDepth
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[30]RotatingLasersPair (6)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[30]RotatingLasersPair (6).[0]BaseL
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[30]RotatingLasersPair (6).[0]BaseL.[0]Laser
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[30]RotatingLasersPair (6).[0]BaseL.[0]Laser.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[30]RotatingLasersPair (6).[0]BaseL.[0]Laser.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[30]RotatingLasersPair (6).[1]BaseR
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[30]RotatingLasersPair (6).[1]BaseR.[0]Laser
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[30]RotatingLasersPair (6).[1]BaseR.[0]Laser.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[30]RotatingLasersPair (6).[1]BaseR.[0]Laser.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[31]DoubleColorLaser
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[31]DoubleColorLaser.[0]TopBoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[31]DoubleColorLaser.[1]TopBakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[31]DoubleColorLaser.[2]BottomBoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[31]DoubleColorLaser.[3]BottomBakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[32]DoubleColorLaser (1)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[32]DoubleColorLaser (1).[0]TopBoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[32]DoubleColorLaser (1).[1]TopBakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[32]DoubleColorLaser (1).[2]BottomBoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[32]DoubleColorLaser (1).[3]BottomBakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[33]DoubleColorLaser (2)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[33]DoubleColorLaser (2).[0]TopBoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[33]DoubleColorLaser (2).[1]TopBakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[33]DoubleColorLaser (2).[2]BottomBoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[33]DoubleColorLaser (2).[3]BottomBakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[34]DoubleColorLaser (3)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[34]DoubleColorLaser (3).[0]TopBoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[34]DoubleColorLaser (3).[1]TopBakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[34]DoubleColorLaser (3).[2]BottomBoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[34]DoubleColorLaser (3).[3]BottomBakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[35]DoubleColorLaser (4)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[35]DoubleColorLaser (4).[0]TopBoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[35]DoubleColorLaser (4).[1]TopBakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[35]DoubleColorLaser (4).[2]BottomBoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[35]DoubleColorLaser (4).[3]BottomBakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[36]DoubleColorLaser (5)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[36]DoubleColorLaser (5).[0]TopBoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[36]DoubleColorLaser (5).[1]TopBakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[36]DoubleColorLaser (5).[2]BottomBoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[36]DoubleColorLaser (5).[3]BottomBakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[37]DoubleColorLaser (6)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[37]DoubleColorLaser (6).[0]TopBoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[37]DoubleColorLaser (6).[1]TopBakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[37]DoubleColorLaser (6).[2]BottomBoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[37]DoubleColorLaser (6).[3]BottomBakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[38]DoubleColorLaser (7)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[38]DoubleColorLaser (7).[0]TopBoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[38]DoubleColorLaser (7).[1]TopBakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[38]DoubleColorLaser (7).[2]BottomBoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[38]DoubleColorLaser (7).[3]BottomBakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[39]DoubleColorLaser (8)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[39]DoubleColorLaser (8).[0]TopBoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[39]DoubleColorLaser (8).[1]TopBakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[39]DoubleColorLaser (8).[2]BottomBoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[39]DoubleColorLaser (8).[3]BottomBakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[4]BackColumns
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[4]BackColumns.[0]BackColumnNeon
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[4]BackColumns.[0]BackColumnNeon.[0]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[4]BackColumns.[0]BackColumnNeon.[1]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[4]BackColumns.[1]BackColumnNeon
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[4]BackColumns.[1]BackColumnNeon.[0]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[4]BackColumns.[1]BackColumnNeon.[1]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[40]DoubleColorLaser (9)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[40]DoubleColorLaser (9).[0]TopBoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[40]DoubleColorLaser (9).[1]TopBakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[40]DoubleColorLaser (9).[2]BottomBoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[40]DoubleColorLaser (9).[3]BottomBakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[41]GradientBackground
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[42]NearBuildingLeft
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[42]NearBuildingLeft.[0]Mesh
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[42]NearBuildingLeft.[1]NeonTubeDirectional
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[42]NearBuildingLeft.[1]NeonTubeDirectional.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[42]NearBuildingLeft.[1]NeonTubeDirectional.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[42]NearBuildingLeft.[2]NeonTubeDirectional (1)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[42]NearBuildingLeft.[2]NeonTubeDirectional (1).[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[42]NearBuildingLeft.[2]NeonTubeDirectional (1).[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[42]NearBuildingLeft.[3]NeonTube (2)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[42]NearBuildingLeft.[3]NeonTube (2).[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[42]NearBuildingLeft.[3]NeonTube (2).[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[43]NearBuildingRight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[43]NearBuildingRight.[0]Mesh
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[43]NearBuildingRight.[1]NeonTubeDirectional
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[43]NearBuildingRight.[1]NeonTubeDirectional.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[43]NearBuildingRight.[1]NeonTubeDirectional.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[43]NearBuildingRight.[2]NeonTubeDirectional (1)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[43]NearBuildingRight.[2]NeonTubeDirectional (1).[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[43]NearBuildingRight.[2]NeonTubeDirectional (1).[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[43]NearBuildingRight.[3]NeonTube (2)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[43]NearBuildingRight.[3]NeonTube (2).[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[43]NearBuildingRight.[3]NeonTube (2).[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[44]BakedReflectionProbe
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[45]BSBakedLightingLightWithIds
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[46]FakeMirrorSettings
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[47]BakedReflectionProbeInstaller
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1).[0]Mesh
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1).[1]NeonTubeDirectional
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1).[1]NeonTubeDirectional.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1).[1]NeonTubeDirectional.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1).[2]NeonTubeDirectional (1)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1).[2]NeonTubeDirectional (1).[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1).[2]NeonTubeDirectional (1).[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1).[3]NeonTube (2)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1).[3]NeonTube (2).[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1).[3]NeonTube (2).[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1).[0]Mesh
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1).[1]NeonTubeDirectional
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1).[1]NeonTubeDirectional.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1).[1]NeonTubeDirectional.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1).[2]NeonTubeDirectional (1)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1).[2]NeonTubeDirectional (1).[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1).[2]NeonTubeDirectional (1).[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1).[3]NeonTube (2)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1).[3]NeonTube (2).[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1).[3]NeonTube (2).[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2).[0]Mesh
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2).[1]NeonTubeDirectional
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2).[1]NeonTubeDirectional.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2).[1]NeonTubeDirectional.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2).[2]NeonTubeDirectional (1)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2).[2]NeonTubeDirectional (1).[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2).[2]NeonTubeDirectional (1).[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2).[3]NeonTube (2)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2).[3]NeonTube (2).[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2).[3]NeonTube (2).[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2).[0]Mesh
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2).[1]NeonTubeDirectional
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2).[1]NeonTubeDirectional.[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2).[1]NeonTubeDirectional.[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2).[2]NeonTubeDirectional (1)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2).[2]NeonTubeDirectional (1).[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2).[2]NeonTubeDirectional (1).[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2).[3]NeonTube (2)
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2).[3]NeonTube (2).[0]BakedBloom
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2).[3]NeonTube (2).[1]BoxLight
-[DEBUG @ 18:46:37 | Chroma] TriangleEnvironment.[0]Environment.[9]====== DYNAMIC ======
+TriangleEnvironment.[0]Environment
+TriangleEnvironment.[0]Environment.[0]DecoratorContext
+TriangleEnvironment.[0]Environment.[1]====== STATIC ======
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[0]BG
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[1]BarBG
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[3]EnergyIconFull
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper.[0]EnergyBar
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[5]Laser
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[6]FailIcon
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[0]BG
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[1]Top
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[0]ComboText
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]ComboCanvas
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]ComboCanvas.[0]NumText
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[2]Line0
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[3]Line1
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[0]BG
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[1]Top
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[0]BGCircle
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[1]FGCircle
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[2]AnimationCircle
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1.[0]XText
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1.[1]NumText
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0.[0]XText
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0.[1]NumText
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[0]XText
+TriangleEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[1]NumText
+TriangleEnvironment.[0]Environment.[11]PlayersPlace
+TriangleEnvironment.[0]Environment.[11]PlayersPlace.[0]Mirror
+TriangleEnvironment.[0]Environment.[11]PlayersPlace.[1]Feet
+TriangleEnvironment.[0]Environment.[11]PlayersPlace.[2]Construction
+TriangleEnvironment.[0]Environment.[11]PlayersPlace.[3]RectangleFakeGlow
+TriangleEnvironment.[0]Environment.[11]PlayersPlace.[4]Frame
+TriangleEnvironment.[0]Environment.[11]PlayersPlace.[5]SaberBurnMarksParticles
+TriangleEnvironment.[0]Environment.[11]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+TriangleEnvironment.[0]Environment.[11]PlayersPlace.[6]SaberBurnMarksArea
+TriangleEnvironment.[0]Environment.[11]PlayersPlace.[7]Collider
+TriangleEnvironment.[0]Environment.[12]TriangleTrackLaneRings
+TriangleEnvironment.[0]Environment.[13]BigTrackLaneRings
+TriangleEnvironment.[0]Environment.[14]Spectrograms
+TriangleEnvironment.[0]Environment.[14]Spectrograms.[0]Spectrogram
+TriangleEnvironment.[0]Environment.[14]Spectrograms.[0]Spectrogram.[0]Spectrogram0
+TriangleEnvironment.[0]Environment.[14]Spectrograms.[0]Spectrogram.[1]Spectrogram1
+TriangleEnvironment.[0]Environment.[14]Spectrograms.[1]Spectrogram
+TriangleEnvironment.[0]Environment.[14]Spectrograms.[1]Spectrogram.[0]Spectrogram0
+TriangleEnvironment.[0]Environment.[14]Spectrograms.[1]Spectrogram.[1]Spectrogram1
+TriangleEnvironment.[0]Environment.[15]BigSmokePS
+TriangleEnvironment.[0]Environment.[16]DustPS
+TriangleEnvironment.[0]Environment.[17]====== LIGHTS ======
+TriangleEnvironment.[0]Environment.[18]LightEffects
+TriangleEnvironment.[0]Environment.[19]LightWithIdManager
+TriangleEnvironment.[0]Environment.[2]FloorConstruction
+TriangleEnvironment.[0]Environment.[20]CoreLighting
+TriangleEnvironment.[0]Environment.[20]CoreLighting.[0]LightManager
+TriangleEnvironment.[0]Environment.[20]CoreLighting.[1]LightWrapper0
+TriangleEnvironment.[0]Environment.[20]CoreLighting.[1]LightWrapper0.[0]DirectionalLight
+TriangleEnvironment.[0]Environment.[20]CoreLighting.[2]LightWrapper1
+TriangleEnvironment.[0]Environment.[20]CoreLighting.[2]LightWrapper1.[0]DirectionalLight
+TriangleEnvironment.[0]Environment.[20]CoreLighting.[3]DirectionalLight
+TriangleEnvironment.[0]Environment.[20]CoreLighting.[4]DirectionalLight
+TriangleEnvironment.[0]Environment.[20]CoreLighting.[5]DirectionalLight
+TriangleEnvironment.[0]Environment.[21]FrontLights
+TriangleEnvironment.[0]Environment.[21]FrontLights.[0]NeonTube
+TriangleEnvironment.[0]Environment.[21]FrontLights.[0]NeonTube.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[21]FrontLights.[0]NeonTube.[1]BoxLight
+TriangleEnvironment.[0]Environment.[21]FrontLights.[1]NeonTube (1)
+TriangleEnvironment.[0]Environment.[21]FrontLights.[1]NeonTube (1).[0]BakedBloom
+TriangleEnvironment.[0]Environment.[21]FrontLights.[1]NeonTube (1).[1]BoxLight
+TriangleEnvironment.[0]Environment.[22]NeonTubeDirectionalL
+TriangleEnvironment.[0]Environment.[22]NeonTubeDirectionalL.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[22]NeonTubeDirectionalL.[1]BoxLight
+TriangleEnvironment.[0]Environment.[23]NeonTubeDirectionalR
+TriangleEnvironment.[0]Environment.[23]NeonTubeDirectionalR.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[23]NeonTubeDirectionalR.[1]BoxLight
+TriangleEnvironment.[0]Environment.[24]RotatingLasersPair
+TriangleEnvironment.[0]Environment.[24]RotatingLasersPair.[0]BaseL
+TriangleEnvironment.[0]Environment.[24]RotatingLasersPair.[0]BaseL.[0]Laser
+TriangleEnvironment.[0]Environment.[24]RotatingLasersPair.[0]BaseL.[0]Laser.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[24]RotatingLasersPair.[0]BaseL.[0]Laser.[1]BoxLight
+TriangleEnvironment.[0]Environment.[24]RotatingLasersPair.[1]BaseR
+TriangleEnvironment.[0]Environment.[24]RotatingLasersPair.[1]BaseR.[0]Laser
+TriangleEnvironment.[0]Environment.[24]RotatingLasersPair.[1]BaseR.[0]Laser.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[24]RotatingLasersPair.[1]BaseR.[0]Laser.[1]BoxLight
+TriangleEnvironment.[0]Environment.[25]RotatingLasersPair (1)
+TriangleEnvironment.[0]Environment.[25]RotatingLasersPair (1).[0]BaseL
+TriangleEnvironment.[0]Environment.[25]RotatingLasersPair (1).[0]BaseL.[0]Laser
+TriangleEnvironment.[0]Environment.[25]RotatingLasersPair (1).[0]BaseL.[0]Laser.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[25]RotatingLasersPair (1).[0]BaseL.[0]Laser.[1]BoxLight
+TriangleEnvironment.[0]Environment.[25]RotatingLasersPair (1).[1]BaseR
+TriangleEnvironment.[0]Environment.[25]RotatingLasersPair (1).[1]BaseR.[0]Laser
+TriangleEnvironment.[0]Environment.[25]RotatingLasersPair (1).[1]BaseR.[0]Laser.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[25]RotatingLasersPair (1).[1]BaseR.[0]Laser.[1]BoxLight
+TriangleEnvironment.[0]Environment.[26]RotatingLasersPair (2)
+TriangleEnvironment.[0]Environment.[26]RotatingLasersPair (2).[0]BaseL
+TriangleEnvironment.[0]Environment.[26]RotatingLasersPair (2).[0]BaseL.[0]Laser
+TriangleEnvironment.[0]Environment.[26]RotatingLasersPair (2).[0]BaseL.[0]Laser.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[26]RotatingLasersPair (2).[0]BaseL.[0]Laser.[1]BoxLight
+TriangleEnvironment.[0]Environment.[26]RotatingLasersPair (2).[1]BaseR
+TriangleEnvironment.[0]Environment.[26]RotatingLasersPair (2).[1]BaseR.[0]Laser
+TriangleEnvironment.[0]Environment.[26]RotatingLasersPair (2).[1]BaseR.[0]Laser.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[26]RotatingLasersPair (2).[1]BaseR.[0]Laser.[1]BoxLight
+TriangleEnvironment.[0]Environment.[27]RotatingLasersPair (3)
+TriangleEnvironment.[0]Environment.[27]RotatingLasersPair (3).[0]BaseL
+TriangleEnvironment.[0]Environment.[27]RotatingLasersPair (3).[0]BaseL.[0]Laser
+TriangleEnvironment.[0]Environment.[27]RotatingLasersPair (3).[0]BaseL.[0]Laser.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[27]RotatingLasersPair (3).[0]BaseL.[0]Laser.[1]BoxLight
+TriangleEnvironment.[0]Environment.[27]RotatingLasersPair (3).[1]BaseR
+TriangleEnvironment.[0]Environment.[27]RotatingLasersPair (3).[1]BaseR.[0]Laser
+TriangleEnvironment.[0]Environment.[27]RotatingLasersPair (3).[1]BaseR.[0]Laser.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[27]RotatingLasersPair (3).[1]BaseR.[0]Laser.[1]BoxLight
+TriangleEnvironment.[0]Environment.[28]RotatingLasersPair (4)
+TriangleEnvironment.[0]Environment.[28]RotatingLasersPair (4).[0]BaseL
+TriangleEnvironment.[0]Environment.[28]RotatingLasersPair (4).[0]BaseL.[0]Laser
+TriangleEnvironment.[0]Environment.[28]RotatingLasersPair (4).[0]BaseL.[0]Laser.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[28]RotatingLasersPair (4).[0]BaseL.[0]Laser.[1]BoxLight
+TriangleEnvironment.[0]Environment.[28]RotatingLasersPair (4).[1]BaseR
+TriangleEnvironment.[0]Environment.[28]RotatingLasersPair (4).[1]BaseR.[0]Laser
+TriangleEnvironment.[0]Environment.[28]RotatingLasersPair (4).[1]BaseR.[0]Laser.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[28]RotatingLasersPair (4).[1]BaseR.[0]Laser.[1]BoxLight
+TriangleEnvironment.[0]Environment.[29]RotatingLasersPair (5)
+TriangleEnvironment.[0]Environment.[29]RotatingLasersPair (5).[0]BaseL
+TriangleEnvironment.[0]Environment.[29]RotatingLasersPair (5).[0]BaseL.[0]Laser
+TriangleEnvironment.[0]Environment.[29]RotatingLasersPair (5).[0]BaseL.[0]Laser.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[29]RotatingLasersPair (5).[0]BaseL.[0]Laser.[1]BoxLight
+TriangleEnvironment.[0]Environment.[29]RotatingLasersPair (5).[1]BaseR
+TriangleEnvironment.[0]Environment.[29]RotatingLasersPair (5).[1]BaseR.[0]Laser
+TriangleEnvironment.[0]Environment.[29]RotatingLasersPair (5).[1]BaseR.[0]Laser.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[29]RotatingLasersPair (5).[1]BaseR.[0]Laser.[1]BoxLight
+TriangleEnvironment.[0]Environment.[3]TrackMirror
+TriangleEnvironment.[0]Environment.[3]TrackMirror.[0]TrackMirrorSetDepth
+TriangleEnvironment.[0]Environment.[30]RotatingLasersPair (6)
+TriangleEnvironment.[0]Environment.[30]RotatingLasersPair (6).[0]BaseL
+TriangleEnvironment.[0]Environment.[30]RotatingLasersPair (6).[0]BaseL.[0]Laser
+TriangleEnvironment.[0]Environment.[30]RotatingLasersPair (6).[0]BaseL.[0]Laser.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[30]RotatingLasersPair (6).[0]BaseL.[0]Laser.[1]BoxLight
+TriangleEnvironment.[0]Environment.[30]RotatingLasersPair (6).[1]BaseR
+TriangleEnvironment.[0]Environment.[30]RotatingLasersPair (6).[1]BaseR.[0]Laser
+TriangleEnvironment.[0]Environment.[30]RotatingLasersPair (6).[1]BaseR.[0]Laser.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[30]RotatingLasersPair (6).[1]BaseR.[0]Laser.[1]BoxLight
+TriangleEnvironment.[0]Environment.[31]DoubleColorLaser
+TriangleEnvironment.[0]Environment.[31]DoubleColorLaser.[0]TopBoxLight
+TriangleEnvironment.[0]Environment.[31]DoubleColorLaser.[1]TopBakedBloom
+TriangleEnvironment.[0]Environment.[31]DoubleColorLaser.[2]BottomBoxLight
+TriangleEnvironment.[0]Environment.[31]DoubleColorLaser.[3]BottomBakedBloom
+TriangleEnvironment.[0]Environment.[32]DoubleColorLaser (1)
+TriangleEnvironment.[0]Environment.[32]DoubleColorLaser (1).[0]TopBoxLight
+TriangleEnvironment.[0]Environment.[32]DoubleColorLaser (1).[1]TopBakedBloom
+TriangleEnvironment.[0]Environment.[32]DoubleColorLaser (1).[2]BottomBoxLight
+TriangleEnvironment.[0]Environment.[32]DoubleColorLaser (1).[3]BottomBakedBloom
+TriangleEnvironment.[0]Environment.[33]DoubleColorLaser (2)
+TriangleEnvironment.[0]Environment.[33]DoubleColorLaser (2).[0]TopBoxLight
+TriangleEnvironment.[0]Environment.[33]DoubleColorLaser (2).[1]TopBakedBloom
+TriangleEnvironment.[0]Environment.[33]DoubleColorLaser (2).[2]BottomBoxLight
+TriangleEnvironment.[0]Environment.[33]DoubleColorLaser (2).[3]BottomBakedBloom
+TriangleEnvironment.[0]Environment.[34]DoubleColorLaser (3)
+TriangleEnvironment.[0]Environment.[34]DoubleColorLaser (3).[0]TopBoxLight
+TriangleEnvironment.[0]Environment.[34]DoubleColorLaser (3).[1]TopBakedBloom
+TriangleEnvironment.[0]Environment.[34]DoubleColorLaser (3).[2]BottomBoxLight
+TriangleEnvironment.[0]Environment.[34]DoubleColorLaser (3).[3]BottomBakedBloom
+TriangleEnvironment.[0]Environment.[35]DoubleColorLaser (4)
+TriangleEnvironment.[0]Environment.[35]DoubleColorLaser (4).[0]TopBoxLight
+TriangleEnvironment.[0]Environment.[35]DoubleColorLaser (4).[1]TopBakedBloom
+TriangleEnvironment.[0]Environment.[35]DoubleColorLaser (4).[2]BottomBoxLight
+TriangleEnvironment.[0]Environment.[35]DoubleColorLaser (4).[3]BottomBakedBloom
+TriangleEnvironment.[0]Environment.[36]DoubleColorLaser (5)
+TriangleEnvironment.[0]Environment.[36]DoubleColorLaser (5).[0]TopBoxLight
+TriangleEnvironment.[0]Environment.[36]DoubleColorLaser (5).[1]TopBakedBloom
+TriangleEnvironment.[0]Environment.[36]DoubleColorLaser (5).[2]BottomBoxLight
+TriangleEnvironment.[0]Environment.[36]DoubleColorLaser (5).[3]BottomBakedBloom
+TriangleEnvironment.[0]Environment.[37]DoubleColorLaser (6)
+TriangleEnvironment.[0]Environment.[37]DoubleColorLaser (6).[0]TopBoxLight
+TriangleEnvironment.[0]Environment.[37]DoubleColorLaser (6).[1]TopBakedBloom
+TriangleEnvironment.[0]Environment.[37]DoubleColorLaser (6).[2]BottomBoxLight
+TriangleEnvironment.[0]Environment.[37]DoubleColorLaser (6).[3]BottomBakedBloom
+TriangleEnvironment.[0]Environment.[38]DoubleColorLaser (7)
+TriangleEnvironment.[0]Environment.[38]DoubleColorLaser (7).[0]TopBoxLight
+TriangleEnvironment.[0]Environment.[38]DoubleColorLaser (7).[1]TopBakedBloom
+TriangleEnvironment.[0]Environment.[38]DoubleColorLaser (7).[2]BottomBoxLight
+TriangleEnvironment.[0]Environment.[38]DoubleColorLaser (7).[3]BottomBakedBloom
+TriangleEnvironment.[0]Environment.[39]DoubleColorLaser (8)
+TriangleEnvironment.[0]Environment.[39]DoubleColorLaser (8).[0]TopBoxLight
+TriangleEnvironment.[0]Environment.[39]DoubleColorLaser (8).[1]TopBakedBloom
+TriangleEnvironment.[0]Environment.[39]DoubleColorLaser (8).[2]BottomBoxLight
+TriangleEnvironment.[0]Environment.[39]DoubleColorLaser (8).[3]BottomBakedBloom
+TriangleEnvironment.[0]Environment.[4]BackColumns
+TriangleEnvironment.[0]Environment.[4]BackColumns.[0]BackColumnNeon
+TriangleEnvironment.[0]Environment.[4]BackColumns.[0]BackColumnNeon.[0]BoxLight
+TriangleEnvironment.[0]Environment.[4]BackColumns.[0]BackColumnNeon.[1]BakedBloom
+TriangleEnvironment.[0]Environment.[4]BackColumns.[1]BackColumnNeon
+TriangleEnvironment.[0]Environment.[4]BackColumns.[1]BackColumnNeon.[0]BoxLight
+TriangleEnvironment.[0]Environment.[4]BackColumns.[1]BackColumnNeon.[1]BakedBloom
+TriangleEnvironment.[0]Environment.[40]DoubleColorLaser (9)
+TriangleEnvironment.[0]Environment.[40]DoubleColorLaser (9).[0]TopBoxLight
+TriangleEnvironment.[0]Environment.[40]DoubleColorLaser (9).[1]TopBakedBloom
+TriangleEnvironment.[0]Environment.[40]DoubleColorLaser (9).[2]BottomBoxLight
+TriangleEnvironment.[0]Environment.[40]DoubleColorLaser (9).[3]BottomBakedBloom
+TriangleEnvironment.[0]Environment.[41]GradientBackground
+TriangleEnvironment.[0]Environment.[42]NearBuildingLeft
+TriangleEnvironment.[0]Environment.[42]NearBuildingLeft.[0]Mesh
+TriangleEnvironment.[0]Environment.[42]NearBuildingLeft.[1]NeonTubeDirectional
+TriangleEnvironment.[0]Environment.[42]NearBuildingLeft.[1]NeonTubeDirectional.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[42]NearBuildingLeft.[1]NeonTubeDirectional.[1]BoxLight
+TriangleEnvironment.[0]Environment.[42]NearBuildingLeft.[2]NeonTubeDirectional (1)
+TriangleEnvironment.[0]Environment.[42]NearBuildingLeft.[2]NeonTubeDirectional (1).[0]BakedBloom
+TriangleEnvironment.[0]Environment.[42]NearBuildingLeft.[2]NeonTubeDirectional (1).[1]BoxLight
+TriangleEnvironment.[0]Environment.[42]NearBuildingLeft.[3]NeonTube (2)
+TriangleEnvironment.[0]Environment.[42]NearBuildingLeft.[3]NeonTube (2).[0]BakedBloom
+TriangleEnvironment.[0]Environment.[42]NearBuildingLeft.[3]NeonTube (2).[1]BoxLight
+TriangleEnvironment.[0]Environment.[43]NearBuildingRight
+TriangleEnvironment.[0]Environment.[43]NearBuildingRight.[0]Mesh
+TriangleEnvironment.[0]Environment.[43]NearBuildingRight.[1]NeonTubeDirectional
+TriangleEnvironment.[0]Environment.[43]NearBuildingRight.[1]NeonTubeDirectional.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[43]NearBuildingRight.[1]NeonTubeDirectional.[1]BoxLight
+TriangleEnvironment.[0]Environment.[43]NearBuildingRight.[2]NeonTubeDirectional (1)
+TriangleEnvironment.[0]Environment.[43]NearBuildingRight.[2]NeonTubeDirectional (1).[0]BakedBloom
+TriangleEnvironment.[0]Environment.[43]NearBuildingRight.[2]NeonTubeDirectional (1).[1]BoxLight
+TriangleEnvironment.[0]Environment.[43]NearBuildingRight.[3]NeonTube (2)
+TriangleEnvironment.[0]Environment.[43]NearBuildingRight.[3]NeonTube (2).[0]BakedBloom
+TriangleEnvironment.[0]Environment.[43]NearBuildingRight.[3]NeonTube (2).[1]BoxLight
+TriangleEnvironment.[0]Environment.[44]BakedReflectionProbe
+TriangleEnvironment.[0]Environment.[45]BSBakedLightingLightWithIds
+TriangleEnvironment.[0]Environment.[46]FakeMirrorSettings
+TriangleEnvironment.[0]Environment.[47]BakedReflectionProbeInstaller
+TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1)
+TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1).[0]Mesh
+TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1).[1]NeonTubeDirectional
+TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1).[1]NeonTubeDirectional.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1).[1]NeonTubeDirectional.[1]BoxLight
+TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1).[2]NeonTubeDirectional (1)
+TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1).[2]NeonTubeDirectional (1).[0]BakedBloom
+TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1).[2]NeonTubeDirectional (1).[1]BoxLight
+TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1).[3]NeonTube (2)
+TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1).[3]NeonTube (2).[0]BakedBloom
+TriangleEnvironment.[0]Environment.[5]NearBuildingLeft (1).[3]NeonTube (2).[1]BoxLight
+TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1)
+TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1).[0]Mesh
+TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1).[1]NeonTubeDirectional
+TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1).[1]NeonTubeDirectional.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1).[1]NeonTubeDirectional.[1]BoxLight
+TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1).[2]NeonTubeDirectional (1)
+TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1).[2]NeonTubeDirectional (1).[0]BakedBloom
+TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1).[2]NeonTubeDirectional (1).[1]BoxLight
+TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1).[3]NeonTube (2)
+TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1).[3]NeonTube (2).[0]BakedBloom
+TriangleEnvironment.[0]Environment.[6]NearBuildingRight (1).[3]NeonTube (2).[1]BoxLight
+TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2)
+TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2).[0]Mesh
+TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2).[1]NeonTubeDirectional
+TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2).[1]NeonTubeDirectional.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2).[1]NeonTubeDirectional.[1]BoxLight
+TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2).[2]NeonTubeDirectional (1)
+TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2).[2]NeonTubeDirectional (1).[0]BakedBloom
+TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2).[2]NeonTubeDirectional (1).[1]BoxLight
+TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2).[3]NeonTube (2)
+TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2).[3]NeonTube (2).[0]BakedBloom
+TriangleEnvironment.[0]Environment.[7]NearBuildingLeft (2).[3]NeonTube (2).[1]BoxLight
+TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2)
+TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2).[0]Mesh
+TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2).[1]NeonTubeDirectional
+TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2).[1]NeonTubeDirectional.[0]BakedBloom
+TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2).[1]NeonTubeDirectional.[1]BoxLight
+TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2).[2]NeonTubeDirectional (1)
+TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2).[2]NeonTubeDirectional (1).[0]BakedBloom
+TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2).[2]NeonTubeDirectional (1).[1]BoxLight
+TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2).[3]NeonTube (2)
+TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2).[3]NeonTube (2).[0]BakedBloom
+TriangleEnvironment.[0]Environment.[8]NearBuildingRight (2).[3]NeonTube (2).[1]BoxLight
+TriangleEnvironment.[0]Environment.[9]====== DYNAMIC ======
