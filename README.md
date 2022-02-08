@@ -43,6 +43,16 @@ My third map. The best one till now, learned custom functions and made a pretty 
 
 You can download the map [here](https://beatsaver.com/maps/1f4e4).
 
+# Collab Maps
+
+## Bubbles
+
+![bubbleC](https://user-images.githubusercontent.com/73640025/153042628-0a36bfbb-7f62-42d4-bf9e-2f58b88be8b7.png)
+
+Hehe, only have the script for the lightshow diff, cause I may or may not have accidentally deleted the previous one. Oops.
+
+You can download the map [here](https://beatsaver.com/maps/21636).
+
 # Looks like there is no more
 
 I currently don't have any other maps to show off, the more maps I make the more will appear here!
