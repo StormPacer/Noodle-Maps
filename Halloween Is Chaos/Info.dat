@@ -1,0 +1,103 @@
+{
+  "_version" : "2.0.0",
+  "_songName" : "Halloween Is Chaos",
+  "_songSubName" : "",
+  "_songAuthorName" : "RoughSketch feat.  北小路ヒスイ",
+  "_levelAuthorName" : "3Stans & StormPacer",
+  "_beatsPerMinute" : 197,
+  "_previewStartTime" : 12,
+  "_previewDuration" : 10,
+  "_songTimeOffset" : 0,
+  "_shuffle" : 0,
+  "_shufflePeriod" : 0.5,
+  "_coverImageFilename" : "halloweeny.jpg",
+  "_songFilename" : "chaos.ogg",
+  "_environmentName" : "TimbalandEnvironment",
+  "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
+  "_customData" : {
+    "_editors" : {
+      "_lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.8.497"
+      }
+    }
+  },
+  "_difficultyBeatmapSets" : [
+    {
+      "_beatmapCharacteristicName" : "Lawless",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "ExpertPlus",
+          "_difficultyRank" : 9,
+          "_beatmapFilename" : "ExpertPlusLawless.dat",
+          "_noteJumpMovementSpeed" : 17,
+          "_noteJumpStartBeatOffset" : -0.25,
+          "_customData" : {
+            "_settings" : {
+              "_playerOptions" : {
+                "_hideNoteSpawnEffect" : true,
+                "_environmentEffectsFilterDefaultPreset" : "AllEffects",
+                "_environmentEffectsFilterExpertPlusPreset" : "AllEffects"
+              },
+              "_environments" : {
+                "_overrideEnvironments" : false
+              },
+              "_chroma" : {
+                "_disableChromaEvents" : false,
+                "_disableEnvironmentEnhancements" : false
+              }
+            },
+            "_suggestions" : [
+              "Chroma"
+            ],
+            "_requirements" : [
+              "Noodle Extensions"
+            ],
+            "_difficultyLabel" : "Spook+",
+            "_colorLeft" : {"r":0.497,"g":0,"b":0},
+            "_colorRight" : {"r":1,"g":0.427,"b":0},
+            "_obstacleColor" : {"r":1,"g":0,"b":0}
+          }
+        }
+      ]
+    },
+    {
+      "_beatmapCharacteristicName" : "Standard",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "ExpertPlus",
+          "_difficultyRank" : 9,
+          "_beatmapFilename" : "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed" : 17,
+          "_noteJumpStartBeatOffset" : -0.25,
+          "_customData" : {
+            "_settings" : {
+              "_playerOptions" : {
+                "_hideNoteSpawnEffect" : true,
+                "_environmentEffectsFilterDefaultPreset" : "AllEffects",
+                "_environmentEffectsFilterExpertPlusPreset" : "AllEffects"
+              },
+              "_environments" : {
+                "_overrideEnvironments" : false
+              },
+              "_chroma" : {
+                "_disableChromaEvents" : false,
+                "_disableEnvironmentEnhancements" : false
+              }
+            },
+            "_difficultyLabel" : "No Movement",
+            "_requirements" : [
+              "Noodle Extensions"
+            ],
+            "_suggestions" : [
+              "Chroma"
+            ],
+            "_colorLeft" : {"r":0.497,"g":0,"b":0},
+            "_colorRight" : {"r":1,"g":0.427,"b":0},
+            "_obstacleColor" : {"r":1,"g":0,"b":0}
+          }
+        }
+      ]
+    }
+  ]
+}
