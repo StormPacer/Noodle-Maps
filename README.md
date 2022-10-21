@@ -53,6 +53,14 @@ Hehe, only have the script for the lightshow diff, cause I may or may not have a
 
 You can download the map [here](https://beatsaver.com/maps/21636).
 
+## Halloween Is Chaos
+
+![halloweeny](https://user-images.githubusercontent.com/73640025/197297086-18dd4aef-ab7b-4741-b835-8c46699a1b0e.jpg)
+
+Made the noodle for the map in under 6 hours and lit the map in under 3, 3Stans did the mapping, stan 3stans.
+
+You can download the map [here](https://beatsaver.com/maps/2b2b1).
+
 # Looks like there is no more
 
 I currently don't have any other maps to show off, the more maps I make the more will appear here!
